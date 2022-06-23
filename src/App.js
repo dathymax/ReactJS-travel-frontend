@@ -44,7 +44,7 @@ function App() {
 		<>
 			<Router>
 				<Switch>
-					<Route exact path="/">
+					<Route exact path="/travel-frontend">
 						<MainPage
 							openTourGuide={openTour}
 							idOverlayTour="overlay-tour"
