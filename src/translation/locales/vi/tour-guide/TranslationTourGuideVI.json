@@ -1,0 +1,17 @@
+{
+	"tourGuide": {
+		"firstTime1": "Bạn lần đầu tiên tới đây?",
+		"firstTime2": "Bạn có muốn một cuộc trải nghiệm website này không?",
+		"firstTime3": "Nếu có thì hãy nhấn đồng ý",
+		"firstTime4": "Còn nếu bạn đã là thành viên, hãy nhấn không",
+		"accept": "Đồng ý",
+		"cancel": "Không",
+		"login": "Nếu như bạn muốn trở thành thành viên của chúng tôi, hãy nhấn vào đây...",
+		"language": "Nhấn vào đây nếu như bạn muốn chuyển đổi ngôn ngữ của website",
+		"socials": "Bạn có thể tìm thấy tôi qua các mạng xã hội dưới đây",
+		"socialsFB": "Nhấn vào đây để chuyển hướng đến trang cá nhân của tôi trên facebook",
+		"socialsTT": "Nhấn vào đây để chuyển hướng đến trang cá nhân của tôi trên twitter",
+		"socialsIG": "Nhấn vào đây để chuyển hướng đến trang cá nhân của tôi trên instagram",
+		"aboutUs": "Dưới đây là một chút thông tin về chúng tôi. Hãy cùng nhau khám phá các địa điểm thú vị nhé"
+	}
+}

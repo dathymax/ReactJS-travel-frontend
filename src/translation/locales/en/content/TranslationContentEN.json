@@ -1,0 +1,42 @@
+{
+	"descriptions": {
+		"activities": "Activities",
+		"activitiesDetail": "A small river named Duden flows by their place and supplies it with the necessary",
+		"travelArrangements": "Travel Arrangements",
+		"travelArrangementsDetail": "A small river named Duden flows by their place and supplies it with the necessary",
+		"privateGuide": "Private Guide",
+		"privateGuideDetail": "A small river named Duden flows by their place and supplies it with the necessary",
+		"locationManager": "Location Manager",
+		"locationManagerDetail": "A small river named Duden flows by their place and supplies it with the necessary",
+		"headingRight1": "It's time to start your",
+		"headingRight2": "adventure",
+		"contentRight1": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.",
+		"contentRight2": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+		"headingRight3": "Make Your Tour",
+		"headingRight4": "Memorable and Safe",
+		"headingRight5": "With Us",
+		"contentRight3": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.",
+		"successfullTour": "Successful Tours",
+		"happyTourist": "Happy Tourist",
+		"placeExplored": "Place Explored",
+		"searchDestination": "Search Destination"
+	},
+	"aboutUs": {
+		"heading": "ABOUT US",
+		"headingBig": "Explore All Corners of The World With Us",
+		"aboutDetail1": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.",
+		"aboutDetail2": "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.",
+		"readMore": "Read more"
+	},
+	"bestPlace": {
+		"heading": "Best Place Destination",
+		"more": "More"
+	},
+	"tourDestination": {
+		"heading": "Tour Destination",
+		"person": "Person"
+	},
+	"touristFeedback": {
+		"heading": "Tourist Feedback"
+	}
+}

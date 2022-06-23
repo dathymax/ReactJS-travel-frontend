@@ -1,0 +1,23 @@
+.wrapper-for-nav {
+	position: relative;
+	.header__nav {
+		position: fixed;
+		background: transparent;
+		width: 100%;
+		top: 0;
+		z-index: 5;
+	}
+	.header__nav.active {
+		background: #fff;
+		box-shadow: -5px 10px 25px rgb(212, 211, 211);
+		.header__logo {
+			color: #000 !important;
+		}
+		& :not(.join-with-us) {
+			color: #000;
+			&:hover {
+				color: #f9ab30;
+			}
+		}
+	}
+}

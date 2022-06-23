@@ -1,0 +1,17 @@
+{
+	"tourGuide": {
+		"firstTime1": "Are you here for the first time?",
+		"firstTime2": "Would you like to experience this website?",
+		"firstTime3": "If yes, press OK",
+		"firstTime4": "If you are already a member, press no",
+		"accept": "Accept",
+		"cancel": "Cancel",
+		"login": "If you want to be a member with us, press there...",
+		"language": "Press this to change language of this website",
+		"socials": "You can find me in some socials in this",
+		"socialsFB": "Press this to redirect to my profile on facebook",
+		"socialsTT": "Press this to redirect to my profile on twitter",
+		"socialsIG": "Press this to redirect to my profile on instagram",
+		"aboutUs": "Here is a little information about us. Let's explore interesting places together"
+	}
+}

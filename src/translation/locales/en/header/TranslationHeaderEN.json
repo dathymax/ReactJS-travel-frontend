@@ -1,0 +1,24 @@
+{
+	"header": {
+		"changeLanguage": "Language",
+		"descriptionHead": "Keep it special",
+		"descriptionDetail1": "Capture your personal memories",
+		"descriptionDetail2": "in a unique way, anywhere",
+		"findMeIn": "Find me in",
+		"about": "About us",
+		"aboutDetail": "Who will work with you",
+		"destination": "Destinations",
+		"destinationDetail": "Where you can relax",
+		"blog": "Travel Tips & Blog",
+		"detailBlog": "Detail blog",
+		"contact": "Contact us"
+	},
+	"navigation": {
+		"home": "Home",
+		"about": "About",
+		"destinations": "Destinations",
+		"blog": "Blog",
+		"contact": "Contact",
+		"joinWithUs": "Join with us"
+	}
+}

@@ -1,0 +1,42 @@
+{
+	"descriptions": {
+		"activities": "Các hoạt động",
+		"activitiesDetail": "Một con sông nhỏ có tên Duden chảy qua nơi họ ở và cung cấp cho nó những thứ cần thiết",
+		"travelArrangements": "Travel Arrangements",
+		"travelArrangementsDetail": "Một con sông nhỏ có tên Duden chảy qua nơi họ ở và cung cấp cho nó những thứ cần thiết",
+		"privateGuide": "Private Guide",
+		"privateGuideDetail": "Một con sông nhỏ có tên Duden chảy qua nơi họ ở và cung cấp cho nó những thứ cần thiết",
+		"locationManager": "Location Manager",
+		"locationManagerDetail": "Một con sông nhỏ có tên Duden chảy qua nơi họ ở và cung cấp cho nó những thứ cần thiết",
+		"headingRight1": "Đã đến lúc bắt đầu",
+		"headingRight2": "cuộc phiêu lưu của bạn",
+		"contentRight1": "Một con sông nhỏ tên là Duden chảy ngang qua nơi ở của họ và cung cấp cho nó những chất dinh dưỡng cần thiết. Đó là một đất nước hoang tưởng, trong đó các phần nướng của câu bay vào miệng của bạn.",
+		"contentRight2": "Xa xa, đằng sau những ngọn núi chữ, xa những quốc gia Vokalia và Consonantia, có những văn tự mù mịt. Tách ra, họ sống trong Bookmarksgrove ngay tại bờ biển Semantics, một đại dương ngôn ngữ rộng lớn. Một con sông nhỏ tên là Duden chảy ngang qua nơi ở của họ và cung cấp cho nó những chất dinh dưỡng cần thiết.",
+		"headingRight3": "Thực hiện chuyến tham quan của bạn",
+		"headingRight4": "Đáng nhớ và an toàn",
+		"headingRight5": "Với chúng tôi",
+		"contentRight3": "Xa xa, đằng sau những ngọn núi chữ, xa những quốc gia Vokalia và Consonantia, có những văn tự mù mịt. Tách ra, họ sống trong Bookmarksgrove ngay tại bờ biển Semantics, một đại dương ngôn ngữ rộng lớn.",
+		"successfullTour": "Chuyến tham quan thành công",
+		"happyTourist": "Khách hàng ưng ý",
+		"placeExplored": "Địa điểm đã khám phá",
+		"searchDestination": "Tìm kiếm địa điểm"
+	},
+	"aboutUs": {
+		"heading": "VỀ CHÚNG TÔI",
+		"headingBig": "Cùng chúng tôi khám phá mọi ngóc ngách của thế giới",
+		"aboutDetail1": "Xa xa, đằng sau những ngọn núi chữ, xa những quốc gia Vokalia và Consonantia, có những văn tự mù mịt. Tách ra, họ sống trong Bookmarksgrove ngay tại bờ biển Semantics, một đại dương ngôn ngữ rộng lớn.",
+		"aboutDetail2": "Một con sông nhỏ tên là Duden chảy ngang qua nơi ở của họ và cung cấp cho nó những chất dinh dưỡng cần thiết. Đó là một đất nước hoang tưởng, trong đó các phần nướng của câu bay vào miệng của bạn.",
+		"readMore": "Xem thêm"
+	},
+	"bestPlace": {
+		"heading": "Điểm đến tốt nhất",
+		"more": "Xem thêm"
+	},
+	"tourDestination": {
+		"heading": "Điểm đến của chuyến tham quan",
+		"person": "Người"
+	},
+	"touristFeedback": {
+		"heading": "Phản hồi từ khách hàng"
+	}
+}

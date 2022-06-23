@@ -1,0 +1,58 @@
+{
+	"tours": [
+		{
+			"img": "https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fyoumatter.world%2Fen%2Ftraveling-today-future-main-cities%2F&psig=AOvVaw3lbbFZzwWq_4UlvBzKAKxG&ust=1647263457278000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMiEid6Uw_YCFQAAAAAdAAAAABAD",
+			"price": "300$/person",
+			"day": "8 Days Tour",
+			"destination": "Australia",
+			"shower": 2,
+			"bed": 3,
+			"near": "Near Mountains"
+		},
+		{
+			"img": "https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fwww.journeyinlife.net%2F2020%2F06%2Ftravel-on-your-own-nghia-la-gi.html&psig=AOvVaw1PBmT-qjcA8vle0Y-27nss&ust=1647265167579000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOC7sYubw_YCFQAAAAAdAAAAABAD",
+			"price": "400$/person",
+			"day": "8 Days Tour",
+			"destination": "Australia",
+			"shower": 2,
+			"bed": 3,
+			"near": "Near Mountains"
+		},
+		{
+			"img": "https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fwww.hilton.com%2Fen%2Ftravel%2F&psig=AOvVaw1PBmT-qjcA8vle0Y-27nss&ust=1647265167579000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOC7sYubw_YCFQAAAAAdAAAAABAK",
+			"price": "500$/person",
+			"day": "8 Days Tour",
+			"destination": "Australia",
+			"shower": 2,
+			"bed": 3,
+			"near": "Near Mountains"
+		},
+		{
+			"img": "https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fyoumatter.world%2Fen%2Ftraveling-today-future-main-cities%2F&psig=AOvVaw1PBmT-qjcA8vle0Y-27nss&ust=1647265167579000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOC7sYubw_YCFQAAAAAdAAAAABAQ",
+			"price": "600$/person",
+			"day": "8 Days Tour",
+			"destination": "Australia",
+			"shower": 2,
+			"bed": 3,
+			"near": "Near Mountains"
+		},
+		{
+			"img": "htthttps://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fe.vnexpress.net%2Fnews%2Ftravel%2Ftourism-advisory-council-proposes-digital-pass-to-revive-domestic-travel-4349742.html&psig=AOvVaw1PBmT-qjcA8vle0Y-27nss&ust=1647265167579000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOC7sYubw_YCFQAAAAAdAAAAABAV",
+			"price": "700$/person",
+			"day": "8 Days Tour",
+			"destination": "Australia",
+			"shower": 2,
+			"bed": 3,
+			"near": "Near Mountains"
+		},
+		{
+			"img": "https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fworldtravelfamily.com%2Fwhy-do-people-travel%2F&psig=AOvVaw1PBmT-qjcA8vle0Y-27nss&ust=1647265167579000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOC7sYubw_YCFQAAAAAdAAAAABAg",
+			"price": "800$/person",
+			"day": "8 Days Tour",
+			"destination": "Australia",
+			"shower": 2,
+			"bed": 3,
+			"near": "Near Mountains"
+		}
+	]
+}

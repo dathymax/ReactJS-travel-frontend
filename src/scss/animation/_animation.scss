@@ -1,0 +1,11 @@
+@keyframes cloudLoop {
+	0% {
+		-webkit-transform: translateZ(0);
+		transform: translateZ(0);
+	}
+
+	100% {
+		-webkit-transform: translate3d(-50%, 0, 0);
+		transform: translate3d(-50%, 0, 0);
+	}
+}

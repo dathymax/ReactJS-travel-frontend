@@ -1,0 +1,46 @@
+@import "antd/dist/antd.css";
+@import "aos/dist/aos.css";
+
+html {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	overflow: hidden auto !important;
+}
+
+body {
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+		"Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+		"Helvetica Neue", sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+iframe {
+	display: none;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
+}
+
+// ---------------- Lib --------------------//
+@import "./scss/lib/lib";
+@import "./scss/common/common";
+@import "./scss/responsive/responsive";
+// --------------- Main page ------------------//
+@import "./scss/main-page/main-page";
+// --------------- Navigation ------------------//
+@import "./scss/navigation/navigation";
+// --------------- Header ------------------//
+@import "./scss/header/header";
+// --------------- Content ------------------//
+@import "./scss/content/content";
+// --------------- Footer ------------------//
+@import "./scss/footer/footer";
+// --------------- Animation ------------------//
+@import "./scss/animation/animation";
+// --------------- Login ------------------//
+@import "./scss/login/login";

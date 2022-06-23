@@ -1,0 +1,24 @@
+{
+	"header": {
+		"changeLanguage": "Ngôn ngữ",
+		"descriptionHead": "Giữ lại những gì đặc biệt nhất",
+		"descriptionDetail1": "Hãy lưu giữ lại những kỷ niệm của riêng bạn",
+		"descriptionDetail2": "theo cách đặt biệt nhất, và ở mọi nơi",
+		"findMeIn": "Tìm tôi tại",
+		"about": "Về chúng tôi",
+		"aboutDetail": "Người sẽ làm việc cùng bạn",
+		"destination": "Những địa điểm",
+		"destinationDetail": "Nơi mà bạn có thể thư giãn",
+		"blog": "Mẹo & Blog về Du lịch",
+		"detailBlog": "Chi tiết bài viết",
+		"contact": "Liên hệ với chúng tôi"
+	},
+	"navigation": {
+		"home": "Trang chủ",
+		"about": "Thông tin",
+		"destinations": "Địa điểm",
+		"blog": "Bài viết",
+		"contact": "Liên hệ",
+		"joinWithUs": "Tham gia với chúng tôi"
+	}
+}

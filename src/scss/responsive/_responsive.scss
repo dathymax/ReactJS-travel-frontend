@@ -1,0 +1,17 @@
+@media (max-width: 768px) {
+	.container__wrapper--outer {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.full__on-mobile {
+		display: flex;
+		justify-content: center;
+		width: 100%;
+	}
+	.hide__on-mobile {
+		display: none;
+	}
+	.show__on-mobile {
+		display: block;
+	}
+}
