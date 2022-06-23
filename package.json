@@ -2,7 +2,7 @@
 	"name": "travel",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://dathymax.github.io/my-travel/",
+	"homepage": "https://dathymax.github.io/travel-frontend/",
 	"dependencies": {
 		"@ant-design/icons": "^4.7.0",
 		"@emotion/react": "^11.5.0",
